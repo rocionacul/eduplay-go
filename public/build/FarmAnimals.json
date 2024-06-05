@@ -1,0 +1,16 @@
+{
+"companyName": "Nacul,Maria Rocio",
+"productName": "Farm Animals - Nacul",
+"productVersion": "0.1",
+"dataUrl": "FarmAnimals.data.unityweb",
+"wasmCodeUrl": "FarmAnimals.wasm.code.unityweb",
+"wasmFrameworkUrl": "FarmAnimals.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.10f1"
+}
