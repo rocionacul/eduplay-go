@@ -44,7 +44,7 @@ export default function Cabildo() {
         ES ALGO TIPICO DEL 1800 O DE LA ACTUALIDAD.
       </p>
       <Footer className="footer" style={{ backgroundColor: "#ffffff" }}>
-        EduPlay Go 2024
+        EduPlay GO, by hoolab - 2024
       </Footer>
     </div>
   );

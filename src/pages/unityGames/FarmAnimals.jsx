@@ -38,7 +38,7 @@ export default function FarmAnimals() {
         PODES ACELERAR PRESIONANDO SHIFT Y SALTAR CON LA BARRA ESPACIADORA.
       </p>
       <Footer className="footer" style={{ backgroundColor: "#ffffff" }}>
-        EduPlay Go 2024
+        EduPlay GO, by hoolab® - 2024
       </Footer>
     </div>
   );

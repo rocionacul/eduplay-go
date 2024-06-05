@@ -36,7 +36,7 @@ export default function MemoryGame() {
         IDENTIFICA LAS IMAGENES QUE SON IGUALES.
       </p>
       <Footer className="footer" style={{ backgroundColor: "#ffffff" }}>
-        EduPlay Go 2024
+        EduPlay GO, by hoolab - 2024
       </Footer>
     </div>
   );

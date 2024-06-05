@@ -2,6 +2,7 @@
 import { React } from "react";
 import { Link } from "react-router-dom";
 import "./games.css";
+import { Layout } from "antd";
 import mayo from "../../assets/images/gamesavatars/mayo.jpg";
 import CanvasESI from "../../assets/images/gamesavatars/CanvasESI.png";
 import colormix from "../../assets/images/gamesavatars/colormix.png";
@@ -21,6 +22,9 @@ const style = {
   borderWidth: 5,
   borderColor: "white",
 };
+
+const { Footer } = Layout;
+
 export default function Games() {
   return (
     <div className="gamesoptions-container">
@@ -62,6 +66,9 @@ export default function Games() {
           <img style={style} src={farm} />
         </Link>
       </div>
+      <Footer className="footer" style={{ backgroundColor: "#cafab5" }}>
+        EduPlay GO, by hoolab - 2024
+      </Footer>
     </div>
   );
 }

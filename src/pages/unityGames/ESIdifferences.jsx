@@ -33,7 +33,7 @@ export default function ESIdifferences() {
         CON EL MOUSE, IDENTIFICA LAS DIFERENCIAS ENTRE LAS DOS IMAGENES.
       </p>
       <Footer className="footer" style={{ backgroundColor: "#ffffff" }}>
-        EduPlay Go 2024
+        EduPlay GO, by hoolab - 2024
       </Footer>
     </div>
   );

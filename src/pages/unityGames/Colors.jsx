@@ -45,7 +45,7 @@ export default function Colors() {
         DE REFERENCIA.
       </p>
       <Footer className="footer" style={{ backgroundColor: "#ffffff" }}>
-        EduPlay Go 2024
+        EduPlay GO, by hoolab - 2024
       </Footer>
     </div>
   );
